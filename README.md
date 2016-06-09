@@ -1,2 +1,0 @@
-# bgy
-karroy
